@@ -1,5 +1,5 @@
 employee_database = [
-    ["Rahul", "HR", 50000],
+    ["Rahul", "HR", 5000],
     ["Priya", "IT", 85000],
     ["Amit", "Sales", 60000]
 ]
