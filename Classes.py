@@ -11,7 +11,7 @@ class Clinic:
 
 
 
-clinic1 = Clinic("Bangalore", "Dr.Rao")
+clinic1 = Clinic("Bangalore", "Dr. Nanda Bangaru")
 clinic1.add_patients()
 clinic1.add_patients()
 clinic1.add_patients()
