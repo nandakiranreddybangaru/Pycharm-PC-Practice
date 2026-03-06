@@ -3,6 +3,7 @@ employee_database = [
     ["Priya", "IT", 85000],
     ["Amit", "Sales", 60000]
     ["Nanda Bangaru", "Finance", "200000"]
+    ["Raghu", "Automation Testing", "250000"]
 ]
 
 # The Outer Loop (Grabs one entire row at a time)
