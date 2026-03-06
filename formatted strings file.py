@@ -9,7 +9,7 @@ subtotal_price = original_price - (original_price * discount)
 tax = subtotal_price * gst
 total_before_shipping = subtotal_price + tax
 if total_before_shipping > 1000:
-    shipping_price = 0
+    shipping_price = 10
 else:
     shipping_price = 50
 final_price = shipping_price + total_before_shipping
